@@ -10,6 +10,7 @@ import cv2
 import time
 import numpy as np
 
+
 def change_hue(im, frame):
     """Colour changing party fun filter"""
     # Convert image to HSV
