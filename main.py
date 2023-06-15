@@ -1,5 +1,5 @@
 """
-OpenCV Colour Mask
+OpenCV Webcam Filters
 Create realtime fun colour changing backgrounds for any webcam or movie source, or create
 a sketch drawn effect, or pixelate the cam, any other interesting possibilities.
 
