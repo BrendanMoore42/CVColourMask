@@ -7,7 +7,7 @@ a sketch drawn effect, or pixelation, many interesting possibilities.
 * Set up venv then: $ pip install -r requirements.txt 
 
 ### Example: Cel-Shaded Colours
-Applying hue change, light pixelation and colour reduction, will achieve the following effects:
+Hue change, light pixelation and colour reduction effects:
 
 <img src="Examples/colour_gif_2.gif" alt="Nice" width="500">
 
