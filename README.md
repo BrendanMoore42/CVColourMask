@@ -7,17 +7,17 @@ a sketch drawn effect, or pixelation, many interesting possibilities.
 * Set up venv then: $ pip install -r requirements.txt 
 
 ### Example: Cel-Shaded Colours
-The filter with hue change, light pixelation and colour reduction, can achieve the following effects:
+Applying hue change, light pixelation and colour reduction, will achieve the following effects:
 
 <img src="Examples/colour_gif_2.gif" alt="Nice" width="500">
 
 ### Example: Pixelated Colours
-Further changes to pixel window size shows this effect: 
+Further changes to pixel window size: 
 
 <img src="Examples/colour_gif_1.gif" alt="Nice" width="500">
 
 ### Example: Sketch Filter
-The sketch filter demonstrates this effect, that of a sketched drawing:
+Demonstrating the sketch effect:
 
 <img src="Examples/sketch_gif.gif" alt="Wow" width="500">
 
